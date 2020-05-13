@@ -1,0 +1,62 @@
+export const data =[
+  {
+    age:23,
+    name:'Jose Manuel',
+    ids:{
+      primario:'TOTAL',
+      secundario:'masbdhjkqb'
+    }
+},
+{
+    age:15,
+    name:'Antonio',
+    ids:{
+      primario:'jkhqdqwj',
+      secundario:'masbdhjkqb'
+    }
+},{
+    age:23,
+    name:'Pepe',
+    ids:{
+      primario:'TOTAL',
+      secundario:'masbdhjkqb'
+    }
+},{
+    age:23,
+    name:'federico',
+    ids:{
+      primario:'jkhqdqwj',
+      secundario:'masbdhjkqb'
+    }
+},{
+    age:22,
+    name:'Felix',
+    ids:{
+      primario:'jkhqdqwj',
+      secundario:'masbdhjkqb'
+    }
+},{
+    age:23,
+    name:'Sebastian',
+    ids:{
+      primario:'TOTAL',
+      secundario:'masbdhjkqb'
+    }
+},{
+    age:23,
+    name:'Juan',
+    ids:{
+      primario:'jkhqdqwj',
+      secundario:'masbdhjkqb'
+    }
+},
+{
+    age:15,
+    name:'Antonio jose',
+    ids:{
+      primario:'jkhqdqwj',
+      secundario:'masbdhjkqb'
+    }
+}
+
+]
